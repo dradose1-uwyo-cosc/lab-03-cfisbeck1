@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
+# [Connor Fisbeck]
+## [Lab 03]
 ## [Submission date: MM/DD/YY]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* n/a
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* n/a
