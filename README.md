@@ -1,6 +1,6 @@
 # [Connor Fisbeck]
 ## [Lab 03]
-## [Submission date: MM/DD/YY]
+## [09/25/24]
 ## Worked with/sources 
 * n/a
 ## Project Quirks/ Things that don't work
