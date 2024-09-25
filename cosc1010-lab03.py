@@ -60,11 +60,12 @@ print(states)
 print("Part Three----------------------------------------------------------------------")
 #Temporarily sort your list, print it both sorted and unsorted 
 print(sorted(states))
+print(states)
 
 #Permanently sort your list in reverse order, printing it out
 states.sort(reverse=True)
 print(states)
 
 #Using the reverse method reverse the list and print it
-states.sort()
+states.reverse()
 print(states)
